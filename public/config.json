@@ -1,0 +1,42 @@
+{
+  "game": {
+    "duration": 60,
+    "countdownSeconds": 3
+  },
+  "generator": {
+    "letterWeights": {
+      "a": 8.2, "b": 1.5, "c": 2.8, "d": 4.3, "e": 12.7, "f": 2.2,
+      "g": 2.0, "h": 6.1, "i": 7.0, "j": 0.15, "k": 0.77, "l": 4.0,
+      "m": 2.4, "n": 6.7, "o": 7.5, "p": 1.9, "q": 0.095, "r": 6.0,
+      "s": 6.3, "t": 9.1, "u": 2.8, "v": 0.98, "w": 2.4, "x": 0.15,
+      "y": 2.0, "z": 0.074
+    },
+    "sameFingerPenalty": 0.3,
+    "patternInsertRate": 0.15,
+    "patterns": ["ing", "the", "tion", "and", "ent", "ion", "ere", "her", "ate", "ter", "hat", "all", "ith"]
+  },
+  "fingerMap": {
+    "a": 0, "q": 0, "z": 0,
+    "s": 1, "w": 1, "x": 1,
+    "d": 2, "e": 2, "c": 2,
+    "f": 3, "r": 3, "v": 3, "t": 3, "g": 3, "b": 3,
+    "j": 4, "u": 4, "m": 4, "y": 4, "h": 4, "n": 4,
+    "k": 5, "i": 5,
+    "l": 6, "o": 6,
+    "p": 7
+  },
+  "ui": {
+    "shakeIntensity": 5,
+    "shakeDuration": 100,
+    "slideTransitionMs": 50,
+    "visibleCharsBefore": 40,
+    "visibleCharsAfter": 70
+  },
+  "ranking": {
+    "S": 120,
+    "A": 90,
+    "B": 60,
+    "C": 40,
+    "D": 0
+  }
+}
