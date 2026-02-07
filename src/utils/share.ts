@@ -1,4 +1,4 @@
-import type { GameResult, GameMode } from '../types';
+import type { GameResult } from '../types';
 
 /**
  * Twitter共有URLを生成
