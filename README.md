@@ -2,7 +2,7 @@
 
 > 60 Seconds of Pure Focus - A competitive typing tool
 
-🎮 **Play Now**: https://kobay.github.io/TypeAlpha/
+🎮 **Play Now**: https://pecology.github.io/TypeAlpha/
 
 ![Type Alpha Screenshot](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
